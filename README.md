@@ -30,7 +30,7 @@ I currently work with **.NET & Angular**, maintain a **WinDev** application, and
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**prodraft-lol**](https://github.com/La-Kiks/prodraft-lol) | Web app replicating the draft phase of League of Legends ranked games. Live at [lolprodraft.com](https://lolprodraft.com/). | pnpm monorepo · Docker |
+| [**prodraft-lol**](https://github.com/La-Kiks/prodraft-lol) | Web app replicating the draft phase of League of Legends ranked games.| pnpm monorepo · Docker |
 | [**lolcdv3**](https://github.com/La-Kiks/lolcdv3) | Web app recessing cooldowns of abilities in League of Legends | Symfony · FrankenPHP · Tailwind · Docker |
 | [**my-angular-webapp**](https://github.com/La-Kiks/my-angular-webapp) | Personal website with an Angular front end and its own backend. | Angular |
 
