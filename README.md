@@ -23,6 +23,7 @@ I currently work with **.NET & Angular**, maintain a **WinDev** application, and
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**PS5Kitsune**](https://github.com/La-Kiks/PS5Kitsune) | Desktop installer and launcher for AnyPS5, a PS5 game recompiler: checks the PC, installs AnyPS5 (release or built from source), converts and audits games, launches them and diagnoses crashes. Ships as a Windows `.exe` and a Linux AppImage. | C# · .NET 10 · Avalonia · xUnit · GitHub Actions |
 | [**sven-event-one**](https://github.com/La-Kiks/sven-event-one) | Registration site for a Hyrox-style team competition: 2-player team sign-up, Stripe checkout, participant accounts with email activation, admin panel. Integration tests with xUnit. | ASP.NET Core 8 · EF Core · SQL Server · Angular 19 · Docker |
 | [**pr-description**](https://github.com/La-Kiks/pr-description) | Claude Code plugin that writes pull request titles and descriptions from the branch diff, using a fixed template (Why / What changed / Validation / Rollback). | Claude Code skill · Markdown |
 
