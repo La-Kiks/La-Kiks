@@ -3,7 +3,7 @@
 Full-stack developer in a work-study program, based on the France–Luxembourg border.
 I currently work with **.NET & Angular**, maintain a **WinDev** application, and enjoy building with **PHP Symfony**.
 
-🌐 Portfolio: [kilian-au.fr](https://kilian-au.fr)
+🌐 Portfolio: [kilian-au.fr/portfolio](https://kilian-au.fr/portfolio/)
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -23,6 +23,7 @@ I currently work with **.NET & Angular**, maintain a **WinDev** application, and
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**portfolio-ng**](https://github.com/La-Kiks/portfolio-ng) | My portfolio, redesigned: bento grid on desktop and tablet, full-screen snap feed of projects on mobile, projects page and per-project pages, entrance animations, SEO. CI on GitHub Actions, deployed with Docker behind Caddy. Live at [kilian-au.fr/portfolio](https://kilian-au.fr/portfolio/). | Angular 21 · Tailwind v4 · Vitest · Docker · Nginx · Caddy |
 | [**PS5Kitsune**](https://github.com/La-Kiks/PS5Kitsune) | Desktop installer and launcher for AnyPS5, a PS5 game recompiler: checks the PC, installs AnyPS5 (release or built from source), converts and audits games, launches them and diagnoses crashes. Ships as a Windows `.exe` and a Linux AppImage. | C# · .NET 10 · Avalonia · xUnit · GitHub Actions |
 | [**sven-event-one**](https://github.com/La-Kiks/sven-event-one) | Registration site for a Hyrox-style team competition: 2-player team sign-up, Stripe checkout, participant accounts with email activation, admin panel. Integration tests with xUnit. | ASP.NET Core 8 · EF Core · SQL Server · Angular 19 · Docker |
 | [**pr-description**](https://github.com/La-Kiks/pr-description) | Claude Code plugin that writes pull request titles and descriptions from the branch diff, using a fixed template (Why / What changed / Validation / Rollback). | Claude Code skill · Markdown |
@@ -39,7 +40,6 @@ I currently work with **.NET & Angular**, maintain a **WinDev** application, and
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**portfolio-ng**](https://github.com/La-Kiks/portfolio-ng) | My portfolio: bento-style layout, projects loaded from JSON, SEO and performance work. Live at [kilian-au.fr](https://kilian-au.fr). | Angular · Tailwind · Docker · Nginx |
 | [**books-node-project**](https://github.com/La-Kiks/books-node-project) | Backend for a book rating site: REST API with authentication, book CRUD, image upload, ratings. | Node.js · Express · MongoDB · Docker |
 | [**kasa-vite-react-project**](https://github.com/La-Kiks/kasa-vite-react-project) | Front end of a rental listings app, built as a single-page application. | React · Vite |
 | [**debug-and-optimize-photograph-website**](https://github.com/La-Kiks/debug-and-optimize-photograph-website) | Performance, accessibility and SEO optimization of an existing photographer's website. | HTML · CSS · JavaScript |
@@ -48,4 +48,4 @@ I currently work with **.NET & Angular**, maintain a **WinDev** application, and
 
 ---
 
-📫 Feel free to reach out via [my portfolio](https://kilian-au.fr).
+📫 Feel free to reach out via [my portfolio](https://kilian-au.fr/portfolio/).
